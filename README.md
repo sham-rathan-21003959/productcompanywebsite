@@ -242,47 +242,90 @@ PRODUCT CODE:
       </div>
       <div class="content">
         <div class="productcontent">    
-          <h1>Our premium products</h1>
+          <h1>OUR PREMIUM PRODUCTS</h1>
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/coconutoil.jpg" alt="product image">
                   </div>
-                  <div class="itemname">coconut oil
+                  <div class="itemname">Coconutoil 
                   </div>                
-                  <div class="itemprice">price:350/L </div>
+                  <div class="itemprice">price:300 </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/groundnutoil.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">groundnutoil
+                  </div>
+                  <div class="itemprice">price:400</div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="/static/img/groundnutoil.jpg"  alt="product image">
+                <img src="/static/img/gin.jpg"  alt="product image">
                 </div>
-                <div class="itemname">Groundnutoil
+                <div class="itemname">Ginigly oil
                 </div>
-                <div class="itemprice">price:500/L</div>
-              <div class="productitem"> 
-                <div class="itemimage">
-                <img src="/static/img/ginglyoil.jpg"  alt="product image">
-                </div>
-                <div class="itemname">ginglyoil
-                </div>
-                <div class="itemprice">price:500/L</div>
-                <div class="productitem"> 
-                  <div class="itemimage">
-                  <img src="/static/img/essantialoil.jpg"  alt="product image">
-                  </div>
-                  <div class="itemname">essantial oil
-                  </div>
-                  <div class="itemprice">price:1500/L</div>
-                 
+                <div class="itemprice">price:500</div>
+            </div>
+            <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/castoroil.jpg"  alt="product image">
+              </div>
+              <div class="itemname">Castor oil
+              </div>
+              <div class="itemprice">price:600</div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/essantialoil.jpg"  alt="product image">
+            </div>
+            <div class="itemname">Essantial oil
+            </div>
+            <div class="itemprice">price:700</div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/herboil.jpg"  alt="product image">
+          </div>
+          <div class="itemname">Herbal oil
+          </div>
+          <div class="itemprice">price:800</div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/eee.jpeg"  alt="product image">
+        </div>
+        <div class="itemname">Eucalyptus oil
+        </div>
+        <div class="itemprice">price:900</div>
+    </div>
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/evo.jpg"  alt="product image">
+      </div>
+      <div class="itemname">extra-virgin olive oil
+      </div>
+      <div class="itemprice">price:1900</div>
+    </div> 
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/sun.jpg"  alt="product image">
+      </div>
+      <div class="itemname">sunflower oil
+      </div>
+      <div class="itemprice">price:00</div>
+    </div> 
+      
+            
             </div>
           </div>
           </div> 
           <div class="footer">
-            Copyright &#169; 2021 Rockstar Private Limited, Developed by S.Sham Rathan
+            Copyright &#169; 2021 Rockstar Private Limited, Developed by S.Sham Rathan 
              
           </div>
-          
-      </div>
+        
       
 
     </div>
@@ -426,7 +469,7 @@ CONTACT US CODE:
 ## OUTPUT:
 
 ![output](./images/homepage.png)
-![output](./images/productpage.png)
+![output](./images/product.png)
 ![output](./images/peoplepage.png)
 ![output](./images/contactpage.png)
 
