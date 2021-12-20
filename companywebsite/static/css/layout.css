@@ -25,7 +25,7 @@ body {
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #808DBD;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #261A00;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,18 +49,18 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: white;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: white;
 }
 
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: #dbce5a;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
@@ -106,7 +106,7 @@ body {
 }
 
 .productitem img {
-  width: 100px;
+  width: 200px;
   height: 100px;
   display: block;
 }
@@ -129,9 +129,9 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: black;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: white;
 }
