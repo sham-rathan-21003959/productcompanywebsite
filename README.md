@@ -338,7 +338,7 @@ PEOPLE CODE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Rockstar Private Limited</title>
+    <title>A2A TRADERS</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.jpg" type="image/x-icon" />
   </head>
